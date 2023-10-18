@@ -14,7 +14,7 @@ and word cloud methods. Also , we transform words to vectors using a trained wor
 model. In the final part, with the help of word2vec and the word embedding model, we found
 two similar company and compared their key financial performance such as ROA and stock
 sales. We also gave business insights and corresponding suggestions for the companies.
-Here are some norms and punctuations we used in the following parts.
+Here are some norms and punctuations we used in the following parts.</br>
 ● ‘fyear’ is the column name of fiscal year</br>
 ● ‘comn’ is the column name of company name</br>
 ● ‘prcc_c’ is the column name of average stock price for a certain company in a fiscal year.</br>
