@@ -5,8 +5,10 @@ that we learned in our course. The project utilizes three datasets.</br>
 ● public_firms.csv</br>
 ● major_groups.csv has all industry information</br>
 ● 2020_10K_item1_full.csv which is the major dataset containing all 10k information of all companies.</br>
+
 link to 2020_10k_item1_full https://drive.google.com/file/d/1QR3Smb9yy0zAkCLeral34MuHGMWb9lRF/view?usp=share_link
 </br>
+
 Using these datasets, we investigated the real estate industry and generated valuable insights
 using several techniques. First we processed these data for ETL, and did some descriptive
 analysis such as data visualization and to have a better understanding of the dataset. After that,
