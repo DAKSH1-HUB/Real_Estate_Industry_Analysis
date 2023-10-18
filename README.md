@@ -37,6 +37,7 @@ dramatically because the house price rebounded after the financial crisis after 
 return on assets went back to stay in the range a bit lower than zero until 2020.
 ![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/f0b6aa30-e2b0-4cd0-9f12-fade84f63783)
 
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/1d74f87f-cd75-4ba0-9564-c54ca8a0b8b0)
 
 
 
