@@ -24,21 +24,34 @@ Here are some norms and punctuations we used in the following parts.</br>
 ● ‘gvkey’ is the unique key for each company in ‘public_firm.csv.</br>
 ● ‘cik’ is the unique key for each year of each company in ‘ item_10k’.</br>
 
-Insights generated:-
+Insights generated:-</br>
 ![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/7a131c7b-211f-453b-b928-104567ef6648)
 As seen from the chart, we can see there was a huge spike in stock price after the 2008 Financial
 Crisis, Whole market is rebounding after the drop from 2007 and 2008. After 2013, the market
-became more stable as the economy had recovered from the crash.
+became more stable as the economy had recovered from the crash.</br>
 
 ![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/4f43d71d-ea5c-40c3-9570-1ff9d5e0bc94)
 The return on assets for the real estate industry remained close to zero before 1997. Then it has
 been fluctuating in the range around 0 to -1 during 1998 to 2009. Then in 2010 it rose
 dramatically because the house price rebounded after the financial crisis after 2008. Then the
 return on assets went back to stay in the range a bit lower than zero until 2020.
-![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/f0b6aa30-e2b0-4cd0-9f12-fade84f63783)
 
+**Word cloud generated with term frequency**</br>
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/f0b6aa30-e2b0-4cd0-9f12-fade84f63783)
+**Word cloud generated using Tf-idf**</br>
 ![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/1d74f87f-cd75-4ba0-9564-c54ca8a0b8b0)
 
+**Competitor comparison**</br>
+**Average return on asset over the years**
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/fee510ca-ea5c-4191-b9bb-f3945ed515be)
+</br>
+**Assets over the years ( CBRE vs Jones Lang Lasalle )**
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/1df1bf62-97b2-4bcd-863a-93e72420db40)
+</br>
+**Average sales over the years of top competitors** 
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/f7b37f86-2adc-47fb-84ac-aaac35eeeaf1)
+</br>
+**Sales over the years ( CBRE vs Cushman & Wakefield )**
+![image](https://github.com/DAKSH1-HUB/Real_Estate_Industry_Analysis/assets/81084807/faf0a0e0-d697-4b8a-b55f-a0136e8a8019)
 
-
-Link to the collab file:- https://colab.research.google.com/drive/10s8tpBLRNEBMuk4Jw7SqZe7PbHIfK8dh?usp=sharing
+**Link to the collab file:- https://colab.research.google.com/drive/10s8tpBLRNEBMuk4Jw7SqZe7PbHIfK8dh?usp=sharing**
